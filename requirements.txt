@@ -1,0 +1,11 @@
+pandas
+numpy 
+scikit-learn 
+transformers 
+torch 
+nltk 
+tqdm
+finnhub-python
+bs4
+yfinance
+torch
