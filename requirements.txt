@@ -1,4 +1,0 @@
-yfinance
-beautifulsoup4
-transformers
-torch
