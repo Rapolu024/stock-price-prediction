@@ -85,8 +85,7 @@ These metrics help determine how well the model is generalizing to unseen data.
 
 1. Clone the repository.
 2. Install dependencies.
-3. Load the dataset and train the model.
-4. Evaluate the model using test data.
+3. Run the command below
 
 ```bash
 python stock_market.py
